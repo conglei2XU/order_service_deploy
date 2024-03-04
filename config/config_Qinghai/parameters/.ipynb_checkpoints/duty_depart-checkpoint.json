@@ -1,0 +1,6 @@
+{
+  "task_name": "duty_depart",
+  "mode": "light",
+  "dataset_meta": "hierarchy_multiple",
+  "model_meta": "classification_servtype"
+}

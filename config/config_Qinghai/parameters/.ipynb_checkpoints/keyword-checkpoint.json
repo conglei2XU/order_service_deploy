@@ -1,0 +1,6 @@
+{
+  "task_name": "keyword",
+  "mode": "light",
+  "dataset_meta": "general",
+  "model_meta": "classification_general"
+}

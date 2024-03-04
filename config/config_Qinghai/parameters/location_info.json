@@ -1,0 +1,6 @@
+{
+  "task_name": "location_info",
+  "mode": "light",
+  "dataset_meta": "general",
+  "model_meta": "classification_general"
+}
